@@ -24,10 +24,10 @@ pip install Pillow
 
 ## 🚀 How to Use
 
-1. Save your Python script (e.g., as `13.py`).
+1. Save your Python script (e.g., as `main.py`).
 2. Run the script from your terminal:
    ```bash
-   python 13.py
+   python main.py
    ```
 3. When prompted, enter the file path to your target PNG image:
    ```text
